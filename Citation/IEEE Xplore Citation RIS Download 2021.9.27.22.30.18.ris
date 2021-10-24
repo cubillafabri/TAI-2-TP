@@ -1,0 +1,20 @@
+TY  - CONF
+TI  - Inventory Placement Mapping using Bluetooth Low Energy Beacon Technology for Warehouses
+T2  - 2020 International Conference on Information Management and Technology (ICIMTech)
+SP  - 354
+EP  - 359
+AU  - P. Octaviani
+AU  - W. Ce
+PY  - 2020
+DO  - 10.1109/ICIMTech50083.2020.9211206
+JO  - 2020 International Conference on Information Management and Technology (ICIMTech)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Information Management and Technology (ICIMTech)
+Y1  - 13-14 Aug. 2020
+AB  - Inventory management is the key to an efficient supply chain. Numerous kinds of inventories are stored in a warehouse where locating goods can be troublesome for the employees. Specifically, in corrugated box company, inventories of paper rolls are placed in a huge warehouse where there are hundreds of paper rolls stock ranging from different weights and sizes. Finished goods are also stored in a warehouse awaiting delivery, placed in between hundreds of other customers' orders where delivery schedule varies from one another. Thus, the positioning of the goods is not permanent and is changing along with the incoming orders. The research aims to explore BLE beacons for the most effective solution in handling inventory placement problems. Common tracking technologies for inventories include barcodes, QR codes, and RFID. The fourth industrial revolution drives the application of IoT, Bluetooth low energy (BLE) beacons are one of the examples in the area. It is the successor of the previous Bluetooth technology, which is more eminent in energy saving. In warehouses, BLE beacons are positioned to determine zone mapping in organizing the floor plan, assists in indoor navigation for guiding employees, and support asset tracking with beacon tags for identification and goods tracing.
+ER  - 
+
+

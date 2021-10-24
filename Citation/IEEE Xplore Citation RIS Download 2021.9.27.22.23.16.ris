@@ -1,0 +1,19 @@
+TY  - CONF
+TI  - Beacon Placement for Indoor Localization using Bluetooth
+T2  - 2008 11th International IEEE Conference on Intelligent Transportation Systems
+SP  - 980
+EP  - 985
+AU  - S. S. Chawathe
+PY  - 2008
+DO  - 10.1109/ITSC.2008.4732690
+JO  - 2008 11th International IEEE Conference on Intelligent Transportation Systems
+IS  - 
+SN  - 2153-0017
+VO  - 
+VL  - 
+JA  - 2008 11th International IEEE Conference on Intelligent Transportation Systems
+Y1  - 12-15 Oct. 2008
+AB  - We describe a method for determining the location of a mobile device, such as a handheld computer or mobile phone, in an indoor environment using Bluetooth beacons. Since it uses inexpensive commodity devices, this method is inexpensive to deploy. The limited range of Bluetooth reception is used to advantage. Another important advantage of this method is that it allows the mobile device to determine its location while remaining anonymous, unidentified to the beacons or other nearby devices. In such a deployment, an important design task is the placement of beacons. Signal propagation in indoor environments is complex, affected by factors such as floor-plans and duct-work, varying transmission and reflection properties of building materials and furniture, and interference from other devices. Therefore, the area from which a beacon is visible is very irregular and not well approximated by simple models such as ellipsoids. Our solution permits complex reception characteristics to be accurately modeled and provides a simple method for choosing beacon locations.
+ER  - 
+
+

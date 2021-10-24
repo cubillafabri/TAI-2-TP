@@ -1,0 +1,9 @@
+TY  - BOOK
+AU  - Tiwari, Sumit
+PY  - 2016/12/01
+SP  - 39
+EP  - 44
+N2  - QR i.e. "Quick Response" code is a 2D matrix code that is designed by keeping two points under consideration, i.e. it must store large amount of data as compared to 1D barcodes and it must be decoded at high speed using any handheld device like phones. QR code provides high data storage capacity, fast scanning, omnidirectional readability, and many other advantages including, error-correction (so that damaged code can also be read successfully) and different type of versions. Different varieties of QR code symbols like logo QR code, encrypted QR code, iQR Code are also available so that user can choose among them according to their need. Now these days, a QR code is applied in different application streams related to marketing, security, academics etc. and gain popularity at a really high pace. Day by day more people are getting aware of this technology and use it accordingly. The popularity of QR code grows rapidly with the growth of smartphone users and thus the QR code is rapidly arriving at high levels of acceptance worldwide.
+T1  - An Introduction to QR Code Technology
+DO  - 10.1109/ICIT.2016.021
+ER  - 

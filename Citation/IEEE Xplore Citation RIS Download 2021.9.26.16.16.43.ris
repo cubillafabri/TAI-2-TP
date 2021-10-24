@@ -1,0 +1,20 @@
+TY  - CONF
+TI  - A Secure QR Code System for Sharing Personal Confidential Information
+T2  - 2019 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2)
+SP  - 1
+EP  - 4
+AU  - M. S. Ahamed
+AU  - H. Asiful Mustafa
+PY  - 2019
+DO  - 10.1109/IC4ME247184.2019.9036521
+JO  - 2019 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2)
+Y1  - 11-12 July 2019
+AB  - Securing and hiding personal confidential information has become a challenge in these modern days. Due to the lack of security and confidentiality, forgery of confidential information can cause a big margin loss to a person. Personal confidential information needs to be securely shared and hidden with the expected recipient and he should be able to verify the information by checking its authenticity. QR codes are being used increasingly to share data for different purposes. In information communication, QR code is important because of its high data capacity. However, most existing QR code systems use insecure data format and encryption is rarely used. A user can use Secure QR Code (SQRC) technology to keep information secured and hidden. In this paper, we propose a novel SQRC system which will allow sharing authentic personal confidential information by means of QR code verification using RSA digital signature algorithm and also allow authorizing the information by means of QR code validation using RSA public key cryptographic algorithm. We implemented the proposed SQRC system and showed that the system is effective for sharing personal confidential information securely.
+ER  - 
+
+

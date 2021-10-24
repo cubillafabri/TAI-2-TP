@@ -1,0 +1,22 @@
+TY  - CONF
+TI  - Evaluation of 1D barcode scanning on mobile phones
+T2  - 2010 Internet of Things (IOT)
+SP  - 1
+EP  - 5
+AU  - F. von Reischach
+AU  - S. Karpischek
+AU  - F. Michahelles
+AU  - R. Adelmann
+PY  - 2010
+DO  - 10.1109/IOT.2010.5678457
+JO  - 2010 Internet of Things (IOT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 Internet of Things (IOT)
+Y1  - 29 Nov.-1 Dec. 2010
+AB  - 1D or linear barcodes are the black-and-white-striped codes that can be found on most consumer products. This work evaluates existing 1D barcode scanners for mobile phones on their applicability towards consumers. The tested scanners identify the data stored in these codes, and thus enable users of mobile phones to conveniently access related information from the Internet on the go, without having to type in the name of a product. The work compares 11 state-of-the-art scanners in a user study with 20 consumers in a realistic shopping environment. It measures the time per scan, the reliability of the scanners, and performs a qualitative evaluation of the users' comments. The results indicate that, although most of the evaluated scanners are available already, still very few function reliably enough to be useful for consumers. General guidelines for the improvement of mobile 1D barcode scanners are derived.
+ER  - 
+
+

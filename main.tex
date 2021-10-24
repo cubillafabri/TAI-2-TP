@@ -1,0 +1,51 @@
+% LLNCS Springer Computer Science proceedings. v2.20 - 2017
+\documentclass{llncs}
+
+% Load packages
+\usepackage{tabularx} % Tabla con clase
+\usepackage{qrcode} % Para generar qr code.
+\usepackage{graphicx} % Agregar imagenes dentro del documento.%\usepackage[utf8]{inputenc}% Codificacion del documento.
+%\usepackage[english]{babel} % Caracteres especiales dentro del lenguaje español. "Ñ" El ultimo indica el idioma a elegir.
+\usepackage[spanish]{babel} 
+% Path for graphics/figures
+\graphicspath{{./Figures/}} 
+%\setlength{\parindent}{2em} % Sangria inicial del parrafo
+%\setlength{\parskip}{1em} %Espacio entre parrafos
+%\renewcommand{\baselinestretch}{2.0} % Separacion entre lineas -todos-
+
+% El cuerpo del documento.-------------------------
+\begin{document} % Inicio del cuerpo del documento.
+
+% Archivos Separados....
+
+\input{autor} % El titulo, Nombre del autor, email, y facultad. (year)
+
+\input{resumen} % El resumen del documento. 
+
+\input{introduccion} % intro del trabajo 
+
+\input{definicion} % Que es el codigo qr
+
+\input{tecnologiasprevias} % tecnologia anterior al codigo qr
+
+\input{origen} % Origen y razones del desarrollo del codigo qr
+
+\input{caracteristicas} % Caracteristicas del codigo qr.
+
+\input{tipos} %Tipos del codigo qr.
+
+\input{variantes} % Variantes del codigo QR.
+
+\input{aplicaciones} % Aplicaciones del código QR.
+
+\input{competidores} % Tecnologías que compiten con el código QR.
+
+\input{conclusion} %Conclusion del trabajo
+
+% Bibliografias
+\bibliographystyle{unsrt} 
+%\bibliographystyle{splncs04} % Falla, da un formato raro a las URLs -Deja sin margenes.-
+\bibliography{./QR_Bib} % Archivo .bib
+
+
+\end{document} % Final del cuerpo del documento. (Cierre) Todo posterior a esta será ignorado por LATEX y no se compilará.-------------------
